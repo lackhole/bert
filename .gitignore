@@ -1,0 +1,11 @@
+.venv
+.data
+.ipynb_checkpoints
+.models
+
+downloads
+
+*.tar.gz
+*.zip
+*.tar
+
